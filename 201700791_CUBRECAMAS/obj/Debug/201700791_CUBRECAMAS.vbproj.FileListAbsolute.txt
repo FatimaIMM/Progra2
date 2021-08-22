@@ -1,0 +1,24 @@
+C:\Users\Daniel Gonzalez\Documents\Visual Studio 2019\Visual_Basic\201700791_TAREAP1\201700791_CUBRECAMAS\bin\Debug\201700791_CUBRECAMAS.exe.config
+C:\Users\Daniel Gonzalez\Documents\Visual Studio 2019\Visual_Basic\201700791_TAREAP1\201700791_CUBRECAMAS\bin\Debug\201700791_CUBRECAMAS.exe
+C:\Users\Daniel Gonzalez\Documents\Visual Studio 2019\Visual_Basic\201700791_TAREAP1\201700791_CUBRECAMAS\bin\Debug\201700791_CUBRECAMAS.pdb
+C:\Users\Daniel Gonzalez\Documents\Visual Studio 2019\Visual_Basic\201700791_TAREAP1\201700791_CUBRECAMAS\bin\Debug\201700791_CUBRECAMAS.xml
+C:\Users\Daniel Gonzalez\Documents\Visual Studio 2019\Visual_Basic\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\201700791_CUBRECAMAS.vbproj.AssemblyReference.cache
+C:\Users\Daniel Gonzalez\Documents\Visual Studio 2019\Visual_Basic\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\_201700791_CUBRECAMAS.Resources.resources
+C:\Users\Daniel Gonzalez\Documents\Visual Studio 2019\Visual_Basic\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\201700791_CUBRECAMAS.vbproj.GenerateResource.cache
+C:\Users\Daniel Gonzalez\Documents\Visual Studio 2019\Visual_Basic\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\201700791_CUBRECAMAS.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel Gonzalez\Documents\Visual Studio 2019\Visual_Basic\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\201700791_CUBRECAMAS.exe
+C:\Users\Daniel Gonzalez\Documents\Visual Studio 2019\Visual_Basic\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\201700791_CUBRECAMAS.xml
+C:\Users\Daniel Gonzalez\Documents\Visual Studio 2019\Visual_Basic\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\201700791_CUBRECAMAS.pdb
+C:\Users\Daniel Gonzalez\Documents\Visual Studio 2019\Visual_Basic\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\_201700791_CUBRECAMAS.Form1.resources
+C:\Users\Fátima\Desktop\Progra 2\201700791_TAREAP1\201700791_CUBRECAMAS\bin\Debug\201700791_CUBRECAMAS.exe.config
+C:\Users\Fátima\Desktop\Progra 2\201700791_TAREAP1\201700791_CUBRECAMAS\bin\Debug\201700791_CUBRECAMAS.exe
+C:\Users\Fátima\Desktop\Progra 2\201700791_TAREAP1\201700791_CUBRECAMAS\bin\Debug\201700791_CUBRECAMAS.pdb
+C:\Users\Fátima\Desktop\Progra 2\201700791_TAREAP1\201700791_CUBRECAMAS\bin\Debug\201700791_CUBRECAMAS.xml
+C:\Users\Fátima\Desktop\Progra 2\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\201700791_CUBRECAMAS.vbproj.AssemblyReference.cache
+C:\Users\Fátima\Desktop\Progra 2\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\_201700791_CUBRECAMAS.Form1.resources
+C:\Users\Fátima\Desktop\Progra 2\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\_201700791_CUBRECAMAS.Resources.resources
+C:\Users\Fátima\Desktop\Progra 2\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\201700791_CUBRECAMAS.vbproj.GenerateResource.cache
+C:\Users\Fátima\Desktop\Progra 2\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\201700791_CUBRECAMAS.vbproj.CoreCompileInputs.cache
+C:\Users\Fátima\Desktop\Progra 2\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\201700791_CUBRECAMAS.exe
+C:\Users\Fátima\Desktop\Progra 2\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\201700791_CUBRECAMAS.xml
+C:\Users\Fátima\Desktop\Progra 2\201700791_TAREAP1\201700791_CUBRECAMAS\obj\Debug\201700791_CUBRECAMAS.pdb
